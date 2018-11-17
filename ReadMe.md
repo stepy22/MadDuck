@@ -1,4 +1,4 @@
-**Aplikacija za mad-dack-code**
+**Aplikacija za mad-duck-code**
 
 **Aplikacija koristi composer, nije potrebno nikakvo posebno pokretanje komandi,**
 **Dovoljno je aplikaciju pokrenuti u localhostu**

@@ -1,0 +1,2 @@
+tip Kupovine: Apoteka Tip proizvoda: sirup Cena Proizvoda: 20 Staro stanje: 200Novo stanje: 188 vreme kupovine 17.11.18 13:47 
+tip Kupovine: Apoteka Tip proizvoda: lek Cena Proizvoda: 30 Staro stanje: 500Novo stanje: 495 vreme kupovine 17.11.18 13:47 
